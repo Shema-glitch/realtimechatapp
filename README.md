@@ -34,6 +34,6 @@ were the chat can be destroyed. This is intended for temporally Database.
 <p>First copy the downloaded project to your directory htdocs, <br> then in your browser type "<span style="font-weight: 600">localhost:your port/folder name/config.php<br></span>" If it says <span style="font-weight: 600">"Database connected"</span></p>
 
 <h2>I guess the app start to work if it says Database connected</h2>
-<p>If so, type again this address to create a new user <h5 style="font-weight: 600">localhost:xampp port/foldername/index.php</h5> if you logged in recently type <h5 style="font-weight: 600">localhost:xampp port/foldername/login.php</h5> or <h5 style="font-weight: 600">Click on Login Now</h5></p>
+<p>If so, type again this address to create a new user <h5 style="font-weight: 700">localhost:xampp port/foldername/index.php</h5> if you logged in recently type <h5 style="font-weight: 700">localhost:xampp port/foldername/login.php</h5> or <h5 style="font-weight: 700">Click on Login Now</h5></p>
 
-<h5 style="font-weight: 600">You must have a little knowledge in DB and SQL</h5>
+<h4 style="font-weight: 600">You must have a little knowledge in DB and SQL</h4>  
