@@ -31,6 +31,9 @@ were the chat can be destroyed. This is intended for temporally Database.
 
 # After creating those tables check if they are linked with the app
 <h3 style="font-weight: 600;">If you're using XAMPP as your DBMS do this</h3>
-<p>First copy the downloaded project to your directory htdocs, <br> then in your browser type "localhost:your port/folder name/config.php<br> If it says <span style="font-weight: bold">"Database connected"</span></p>
+<p>First copy the downloaded project to your directory htdocs, <br> then in your browser type "<span style="font-weight: 600">localhost:your port/folder name/config.php<br></span>" If it says <span style="font-weight: 600">"Database connected"</span></p>
+
+<h2>I guess the app will work if it says Database connected</h2>
+<p>If so, type again this address to create a new user <span style="font-weight: 600">localhost:xampp port/foldername/index.php</span> if you logged in recently type <span style="font-weight: 600">localhost:xampp port/foldername/login.php</span> or click on Login Now</p>
 
 <p>You must have a little knowledge in db and sql</p>
