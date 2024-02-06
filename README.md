@@ -1,10 +1,10 @@
-# Realtime Chat Application
+# Realtime Chat Application.
 This is chat app can be linked with your customDB, <br> This means that you could use it as private or public chat
-Not for a real private chat like a business or something private but for instance<br>with your friend
-Were the chat can be destroyed.
+Not for a real private chat like a business or something private but for instance with your friends
+were the chat can be destroyed. This is intended for temporally Database.
 
-# How to link it with your DB (Database SQL)
-<h2>Create and name your db
+# How to link it with your customDB (Database SQL).
+<h2>Create and name your db using SQL or manually.
 <h3>You need 2 tables in your database</h3>
 <h2>#1 Table(users)</h2>
   <table>
@@ -31,6 +31,6 @@ Were the chat can be destroyed.
 
 # After creating those tables check if they are linked with the app
 <h3 style="font-weight: 600;">If you're using XAMPP as your DBMS do this</h3>
-<h5>First copy the downloaded project to your directory htdocs, <br> then in your browser type "localhost:your port/folder name/config.php<br> If it says <span style="font-style: bold">"Database connected"</span></h5>
+<p>First copy the downloaded project to your directory htdocs, <br> then in your browser type "localhost:your port/folder name/config.php<br> If it says <span style="font-weight: bold">"Database connected"</span></p>
 
 <p>You must have a little knowledge in db and sql</p>
